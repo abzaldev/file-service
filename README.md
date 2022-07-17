@@ -1,5 +1,5 @@
 
-#File Upload API (Spring Boot)
+# File Upload API (Spring Boot)
 
 
 GET  http://localhost:8111/static-image-files/files/{fileName}  
